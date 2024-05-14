@@ -42,8 +42,6 @@ Welcome to the Real Estate Data Repository! This repository contains a dataset r
 ## Contributing
 - Contributions are welcome! If you find any issues or have suggestions, feel free to submit a pull request or open an issue.
 
-## License
-- This dataset is provided under the MIT License.
 
 ## Acknowledgments
 - Thanks to the contributors who collected and shared this real estate data.
